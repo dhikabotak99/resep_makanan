@@ -1,4 +1,5 @@
-# resep_makanan2
+# Resep Makanan
+Using Yummly API from RapidAPI 
 
 A new Flutter project.
 
