@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:resep_makanan2/main.dart';
-import 'package:resep_makanan2/models/detail.dart';
 import 'package:resep_makanan2/views/detail_page.dart';
 import 'package:resep_makanan2/views/tampilan.dart';
 

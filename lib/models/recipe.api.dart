@@ -10,7 +10,7 @@ class RecipeApi {
 
     final response = await http.get(uri, headers: {
       "x-rapidapi-host": "yummly2.p.rapidapi.com",
-      "x-rapidapi-key": "8c5aa4e91dmsha0efcf3dcebc404p1e968bjsn0c7e952562fb",
+      "x-rapidapi-key": "API KEY",
       "useQueryString": "true"
     });
 
